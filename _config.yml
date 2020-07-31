@@ -13,10 +13,10 @@ author: Uzomeziem Eze
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Resources:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -40,7 +40,6 @@ round-avatar: true
 social-network-links:
   email: "uzoeze1016@gmail.com"
   github: thecodinguru
-  twitter: daattali
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
